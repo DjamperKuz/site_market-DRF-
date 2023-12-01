@@ -1,0 +1,5 @@
+__pycache__/
+venv
+site_market/site_market/secrets_key.py
+*.sqlite3
+.idea
